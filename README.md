@@ -6,9 +6,9 @@ This project showcases an end-to-end data analytics workflow, from data preparat
 
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy)
 - Jupyter Notebook
-- SQL (PostgreSQL / MySQL / SQL Server)
+- SQL (PostgreSQL)
 - Power BI
 - Gamma (Presentation)
 - Git & GitHub
